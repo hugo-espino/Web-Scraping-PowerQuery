@@ -28,8 +28,7 @@ All the images and teams logos are 100% dynamic, and only colors will not change
 The matrix changes the minimum and maximum Rate background color based on the hierarchy level selected by the user.
 
 
-'''
-Highlighting Min and Max Rate = 
+```Highlighting Min and Max Rate = 
 VAR __Team = CALCULATETABLE(
  							ADDCOLUMNS(
  								SUMMARIZE(Teams, 
@@ -80,8 +79,7 @@ VAR __Result =
  			       __CurrentValue = __MaxVal,"#50D130"
  			       )
 RETURN 
-__Result
-'''
+__Result```
 
 
 
