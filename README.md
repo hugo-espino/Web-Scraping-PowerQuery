@@ -81,9 +81,12 @@ VAR __Result =
 RETURN 
 __Result
 ```
+### Final screenshots
+
+![Report](https://drive.google.com/uc?export=view&id=1001Iv-skxtemPBYRV600wsxdZziV-9o9)
 
 
-
+![Drill-Through](https://drive.google.com/uc?export=view&id=1uk7a_5z6SRo4RxLm5SVlQn7H8oIFR451)
 
 
 
